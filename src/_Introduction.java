@@ -91,10 +91,16 @@ do GitHuba.
 konkretnych osób z zespo³u, musisz o nich „wspomnieæ” przy u¿yciu znaku
 @ i nazwy u¿ytkownika (jest to tzw. wzmianka, ang. at mention).
  
+Jeœli wprowadzisz zmianê, która odwo³uje siê do jakiegoœ problemu albo
+naprawia opisany w nim b³¹d, wstaw znak krzy¿yka (#) z numerem tego
+problemu w komentarzu do zmiany. Taka zmiana bêdzie wyœwietlana
+w historii danego problemu. Jeœli dana zmiana rozwi¹zuje problem, a Ty
+poprzedzisz jego numer s³owem kluczowym, takim jak closes, fixes albo
+resolves, to gdy ta zmiana zostanie w³¹czona do ga³êzi domyœlnej projektu
+(zwykle master), problem zostanie automatycznie zamkniêty. 
  
  
- 
- 
+
  
  
  
